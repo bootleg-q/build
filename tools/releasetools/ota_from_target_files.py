@@ -1047,7 +1047,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("*MMMMMMMMMWNNMMMMMXxcccldx0NMMMMMMMMMMMMMMMMMMMMM*");
   script.Print("*MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM*");
   script.Print("**************************************************");
-  script.Print("*****************Bootleggers ROM******************");
+  script.Print("*****************Bootleggers Raged******************");
   script.Print("**************************************************");
 
   if target_info.GetBuildProp("ro.bootleggers.display.version") is not None:
